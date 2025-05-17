@@ -1,3 +1,6 @@
+# This project was modified due to old packages
+
+
 # A Comparative Survey of Instance Selection Methods applied to NonNeural and Transformer-Based Text Classification
 
 This repository contains a Python 3 implementation of all Instance Selection approaches studied on the proposed ACM Computing Surveys - CSUR journal.
