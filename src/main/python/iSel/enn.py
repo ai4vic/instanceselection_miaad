@@ -35,7 +35,7 @@ class ENN(InstanceSelectionMixin):
 
 	def select_data(self, X, y):
 		
-		X, y = check_X_y(X, y, accept_sparse="csr")
+		X, y = check_X_y(X, y, accept_sparse=False)
 
 		# 
 		if self.classifier == None:
